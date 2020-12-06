@@ -1,1 +1,1 @@
-# cryptocurrency-profit-loss-calculator
+# Cryptocurrency Profit And Loss Calculator
